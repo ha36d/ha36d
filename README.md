@@ -2,9 +2,6 @@
 <h3 align="center">Lead SRE</h3>
 
 <p align="left"> <a href="https://twitter.com/hammeeeddddd" target="blank"><img src="https://img.shields.io/twitter/follow/hammeeeddddd?logo=twitter&style=for-the-badge" alt="hammeeeddddd" /></a> </p>
-<p align="left">
-[![An image of @ha36d's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ha36d)](https://holopin.io/@ha36d)
-</p>
 
 - 📝 I regularly write articles on [https://medium.com/@hamed.faramarzi](https://medium.com/@hamed.faramarzi)
 
