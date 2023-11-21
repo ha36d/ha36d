@@ -9,6 +9,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Happy Sysadmin Day!](https://techjunkie.blog/2023/07/28/happy-sysadmin-day/)
+- [Hello world!](https://techjunkie.blog/2023/07/26/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
