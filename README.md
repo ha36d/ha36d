@@ -9,8 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [pkrenv](https://medium.com/@hamed.faramarzi/pkrenv-d3c4fe1d4dcd?source=rss-fab94bd55c98------2)
 - [Happy Sysadmin Day!](https://techjunkie.blog/2023/07/28/happy-sysadmin-day/)
 - [Hello world!](https://techjunkie.blog/2023/07/26/hello-world/)
+- [Shell Variables](https://medium.com/@hamed.faramarzi/shell-variables-c17268d74ff2?source=rss-fab94bd55c98------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
