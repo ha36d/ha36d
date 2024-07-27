@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Terragrunt double-slash](https://awstip.com/terragrunt-double-slash-411dbd9a93c4?source=rss-fab94bd55c98------2)
 - [“No migrations to apply” while there are changes that are not applied by Django!](https://medium.com/django-unleashed/no-migrations-to-apply-while-there-are-changes-that-are-not-applied-by-django-ad232dd9a048?source=rss-fab94bd55c98------2)
 - [pkrenv](https://medium.com/@hamed.faramarzi/pkrenv-d3c4fe1d4dcd?source=rss-fab94bd55c98------2)
 - [Shell Variables](https://medium.com/@hamed.faramarzi/shell-variables-c17268d74ff2?source=rss-fab94bd55c98------2)
