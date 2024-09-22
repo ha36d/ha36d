@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://medium.com/feed/@hamed.faramarzi, https://techjunkie.blog/feed/"
+                feed_list: "https://medium.com/feed/@hamed.faramarzi"
