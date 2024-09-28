@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GoReleaser in Github Action builds fails!](https://medium.com/@hamed.faramarzi/goreleaser-in-github-action-builds-fails-357c3d293a1d?source=rss-fab94bd55c98------2)
 - [Terragrunt double-slash](https://awstip.com/terragrunt-double-slash-411dbd9a93c4?source=rss-fab94bd55c98------2)
 - [“No migrations to apply” while there are changes that are not applied by Django!](https://medium.com/django-unleashed/no-migrations-to-apply-while-there-are-changes-that-are-not-applied-by-django-ad232dd9a048?source=rss-fab94bd55c98------2)
 - [pkrenv](https://medium.com/@hamed.faramarzi/pkrenv-d3c4fe1d4dcd?source=rss-fab94bd55c98------2)
-- [Shell Variables](https://medium.com/@hamed.faramarzi/shell-variables-c17268d74ff2?source=rss-fab94bd55c98------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
