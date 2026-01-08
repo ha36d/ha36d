@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CKS Cheet Sheet](https://medium.com/@hamed.faramarzi/cks-cheet-sheet-5934e2011bc3?source=rss-fab94bd55c98------2)
 - [Scalability in Python for Data Scientists: From Notebooks to Production](https://medium.com/@hamed.faramarzi/scalability-in-python-for-data-scientists-from-notebooks-to-production-53d6e77ce37f?source=rss-fab94bd55c98------2)
 - [Terragrunt double-slash](https://awstip.com/terragrunt-double-slash-411dbd9a93c4?source=rss-fab94bd55c98------2)
 - [“No migrations to apply” while there are changes that are not applied by Django!](https://medium.com/django-unleashed/no-migrations-to-apply-while-there-are-changes-that-are-not-applied-by-django-ad232dd9a048?source=rss-fab94bd55c98------2)
-- [pkrenv](https://medium.com/@hamed.faramarzi/pkrenv-d3c4fe1d4dcd?source=rss-fab94bd55c98------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
